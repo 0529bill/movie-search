@@ -15,6 +15,7 @@ you can access [here](https://0529bill.github.io/movie-search/)
 ## problems that i've have faced in this project
 
 1. keydown vs keypress
+   [this blog](https://blog.techbridge.cc/2019/03/23/react-keyboard-event/)helps my alots on this specific topic
 2. object can't be used as react child error
 3. props and state
 
@@ -23,6 +24,7 @@ you can access [here](https://0529bill.github.io/movie-search/)
 
 1. how to fetch api and applied it to website
 2. create a github page and upload react project on it
+3. learn to solve problems
 
 
 
