@@ -2,7 +2,10 @@
 
 
 api that i'm using is [the movie database api](https://developers.themoviedb.org/3)
-you can access [here](https://0529bill.github.io/movie-search/)
+
+## demo
+
+you can access my website [here](https://0529bill.github.io/movie-search/)
 
 ## tools or packages used in the project
 
